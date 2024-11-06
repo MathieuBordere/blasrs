@@ -2,5 +2,10 @@
 name = "blasrs"
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
+description = "Readable and correct BLAS library."
+homepage = "https://github.com/MathieuBordere/blasrs"
+repository = "https://github.com/MathieuBordere/blasrs"
+readme = "README.md"
 
 [dependencies]
